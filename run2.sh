@@ -1,0 +1,3 @@
+#mapping
+
+./map $1
